@@ -3,5 +3,8 @@
     <string name="app_name">My Beer Service</string>
 
     <string name="title_thai">แลกเปลี่ยนอัตราเงิน</string>
+    <string name="date"> DATE =  </string>
+    <string name="rate"> RATE =  </string>
+    <string name="answer"> Answer </string>
 
 </resources>
