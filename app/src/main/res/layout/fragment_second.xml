@@ -15,7 +15,42 @@
         android:textSize="@dimen/h1"
         android:textStyle="bold" />
 
+
+
+
     <!--Content-->
+
+    <LinearLayout
+        android:layout_marginRight="@dimen/my_margin"
+        android:layout_marginLeft="@dimen/my_margin"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--US TO THB-->
+        <TextView
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:textSize="@dimen/h2"
+            android:text="Date = "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!--RATE-->
+
+        <TextView
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:textSize="@dimen/h2"
+            android:text="RATE = "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <!--TEXTFIELD OF USD-->
+
+        <!--Show Anser-->
+
+
+    </LinearLayout>
 
 
 </LinearLayout>
